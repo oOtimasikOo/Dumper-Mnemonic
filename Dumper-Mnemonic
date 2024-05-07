@@ -76,7 +76,7 @@ else:
 
 if not bip:
     # // bip39 phrase file //
-    bip39_url = "https://raw.githubusercontent.com/oOtimasikOo/crypto_balance_checker/master/bip39"
+    bip39_url = "https://raw.githubusercontent.com/oOtimasikOo/Dumper-Mnemonic/main/bip39"
     # // bip39 file download //
     printer(f"{yellow}Downloading bip39 file...{reset}\n")
     titler("Downloading bip39 file...")
